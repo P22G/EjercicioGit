@@ -5,12 +5,12 @@ public class git3 {
 		double movil= 284.07;
     double impuesto=0.22;
     
-    double incrementacion;
-    double preciototal;
-    incrementacion=((double)movil*impuesto);
+    double incre;
+    double preT;
+    incre=((double)movil*impuesto);
     
-    preciototal=((double)movil+incrementacion);
+    preT=((double)movil+incre);
     
-    System.out.println("El precio del movil mas iva es "+preciototal+" euros");
+    System.out.println("El precio del movil mas iva es "+preT+" euros");
 	}
 }

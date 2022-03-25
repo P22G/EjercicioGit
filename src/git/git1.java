@@ -6,7 +6,7 @@ public class git1 {
 		public static void main (String[] args) {
 			    
 	    double notaMates = 2;
-	    double notaCorte = 9;
+	    double notaCorte = 4;
 	    
 	    
 	    notaCorte ++;
@@ -17,7 +17,7 @@ public class git1 {
 	    boolean aprobado; 
 	    
 	    
-	      System.out.println(notaMates >= notaCorte);
+	      System.out.println(notaMates <= notaCorte);
 	      
 	      System.out.println(notaCorte);
 	      
