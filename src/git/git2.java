@@ -2,7 +2,7 @@ package git;
 
 public class git2 {
 	public static void main (String[] args) {
-		int euro= 22;
+		int euro= 7822;
     double pesetas= 166.386;
     double conversion;
     

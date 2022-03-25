@@ -5,8 +5,8 @@ public class git1 {
 	  
 		public static void main (String[] args) {
 			    
-	    double notaMates = 7;
-	    double notaCorte = 5;
+	    double notaMates = 2;
+	    double notaCorte = 9;
 	    
 	    
 	    notaCorte ++;
